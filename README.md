@@ -30,38 +30,31 @@ The dataset contains detailed player data from FIFA. Here is a description of so
 
 Sample Output for Task II: 
 Bullet Point 1
-+-------------------+------------+
-|          club_name|player_count|
-+-------------------+------------+
-|   Deportes Iquique|          12|
-|Patriotas Boyacá FC|          12|
-|          Al Ain FC|          11|
-|  Alianza Petrolera|          11|
-|     Atlético Huila|          11|
-+-------------------+------------+
 
-Bullet Point 2
-+--------------------+-------+
-|           club_name|avg_age|
-+--------------------+-------+
-|           Fortaleza|   32.6|
-|            Cruzeiro|   31.6|
-|Club Athletico Pa...|   31.4|
-|            Botafogo|   31.4|
-|Associação Chapec...|   31.4|
-+--------------------+-------+
+Query Results
+Bullet Point 1: Clubs with the Most Players
+Club Name	Player Count
+Deportes Iquique	12
+Patriotas Boyacá FC	12
+Al Ain FC	11
+Alianza Petrolera	11
+Atlético Huila	11
+Bullet Point 2: Clubs with the Highest Average Age
+Club Name	Average Age
+Fortaleza	32.6
+Cruzeiro	31.6
+Club Athletico Paranaense	31.4
+Botafogo	31.4
+Associação Chapecoense	31.4
+Bullet Point 3: Most Popular Nationality by Year
+Year	Nationality Name	Player Count
+2015	England	1627
+2016	England	1519
+2017	England	1627
+2018	England	1633
+2019	England	1625
+2020	England	1670
+2021	England	1685
+2022	England	1719
 
-Bullet Point 3
-+----+----------------+-----+
-|year|nationality_name|count|
-+----+----------------+-----+
-|2015|         England| 1627|
-|2016|         England| 1519|
-|2017|         England| 1627|
-|2018|         England| 1633|
-|2019|         England| 1625|
-|2020|         England| 1670|
-|2021|         England| 1685|
-|2022|         England| 1719|
-+----+----------------+-----+
 
