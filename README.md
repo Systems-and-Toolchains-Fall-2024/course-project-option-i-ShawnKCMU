@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/VuODydzp)
 
 
-Video Walkthrough: https://drive.google.com/drive/folders/1JwEDaIU35-Vk48qClCvWg9SASxBU3gr-?usp=drive_link
+Video Walkthrough: https://drive.google.com/drive/folders/1JwEDaIU35-Vk48qClCvWg9SASxBU3gr-?usp=drive_link (Also included is the Data)
 
 
 The dataset contains detailed player data from FIFA. Here is more information on the dataset: https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset/data
